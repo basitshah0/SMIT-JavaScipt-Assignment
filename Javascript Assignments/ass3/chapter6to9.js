@@ -6,7 +6,7 @@
 // required arithmetic to display the following result in your
 // browser:
 
-document.write("<h1> Chapter No 06 </h1>")
+document.write("<h1> Chapter No 06 to 9 </h1>")
 document.write("<h1> Question no 01</h1>")
 document.write("<h2> RESULTS</h2>")
 
